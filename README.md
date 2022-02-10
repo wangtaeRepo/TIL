@@ -7,6 +7,12 @@
 + ### **BlockChain** 
   + BlockChain
   + DAO
+  + Coin Analyze
+    + 휴먼스케이프
+    + 보라
+    + 디카르고
+    + 칠리즈
+    + 쎄타
 + ### **Contract** 
   + Solidity
     + Solidity v0.5.0 Breaking Changes
@@ -16,16 +22,12 @@
 + ### **React** 
   + Redux
   + Redux VS Context API
++ ### **HTTP**
+  + Status Code
 + ### **TypeScript** 
   + Object && Tpye 
   + Interface 
   + class
   + Destructuring Assignment
   + Spread Opertor
-+ ### **Coin Analyze** 
-  + 휴먼스케이프
-  + 보라
-  + 디카르고
-  + 칠리즈
-  + 쎄타
 
